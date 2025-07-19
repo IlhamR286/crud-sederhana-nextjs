@@ -38,5 +38,5 @@ Aplikasi ini merupakan tugas pertemuan ke-5 Jabar Academy yang menggunakan Next.
 
 - [Next.js 15 (App Router)](https://nextjs.org/docs)
 - [React 19](https://react.dev)
-- [PostgreSQL](https://www.postgresql.org/)
+- [Postgre on Vercel](https://vercel.com/docs/postgres)
 - [Tailwind CSS] (saat ini belum berfungsi optimal)
